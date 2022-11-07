@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/whats-cookin/static/css/main.68f99ea0.css",
+    "main.js": "/whats-cookin/static/js/main.8aef7be5.js",
+    "static/js/787.1779b755.chunk.js": "/whats-cookin/static/js/787.1779b755.chunk.js",
+    "static/media/salad.png": "/whats-cookin/static/media/salad.587a87c942f8705e1190.png",
+    "static/media/Screenshot 2022-10-31 at 22.08.19.png": "/whats-cookin/static/media/Screenshot 2022-10-31 at 22.08.19.4c8806f58e2d20a44177.png",
+    "static/media/nunito.extrabold.ttf": "/whats-cookin/static/media/nunito.extrabold.66c8b91755a46c8415f8.ttf",
+    "static/media/nunito.bold.ttf": "/whats-cookin/static/media/nunito.bold.c8d0ed25e6e2a459947c.ttf",
+    "static/media/Logo2.png": "/whats-cookin/static/media/Logo2.382bab69eec5cefcf669.png",
+    "static/media/nunito.regular.ttf": "/whats-cookin/static/media/nunito.regular.f8c1d028eab805947023.ttf",
+    "service-worker.js": "/whats-cookin/service-worker.js",
+    "static/media/searchIcon.png": "/whats-cookin/static/media/searchIcon.afde00ab19b32864cdd8.png",
+    "static/media/slick.svg": "/whats-cookin/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/whats-cookin/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/whats-cookin/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/whats-cookin/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/whats-cookin/index.html",
+    "static/media/cameraScan.svg": "/whats-cookin/static/media/cameraScan.1e13b97d6290c3261f843b1ba29a4766.svg",
+    "main.68f99ea0.css.map": "/whats-cookin/static/css/main.68f99ea0.css.map",
+    "main.8aef7be5.js.map": "/whats-cookin/static/js/main.8aef7be5.js.map",
+    "787.1779b755.chunk.js.map": "/whats-cookin/static/js/787.1779b755.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f99ea0.css",
+    "static/js/main.8aef7be5.js"
+  ]
+}
